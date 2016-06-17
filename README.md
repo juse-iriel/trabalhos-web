@@ -1,2 +1,2 @@
-# trabalhos-web
-Aulas de Fundamentos da Web, turma 2A 2016
+﻿# Trabalhos-Web
+Repositório de trabalhos de José Iriel da aula de Fundamentos da Web com Prof. Rafael Escalfoni
